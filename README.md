@@ -13,7 +13,7 @@
 
 [https://www.youtube.com/watch?v=9\_pd3rIbLUc](https://www.youtube.com/watch?v=9_pd3rIbLUc)
 
-[<img align="center" src="https://github.com/millathossain115/IOT-based-Home-Automation-Security-Control/assets/49544603/4ee3a90f-169c-4d7c-9776-6f698372994f" width="40%">](https://www.youtube.com/watch?v=9_pd3rIbLUc "watch the project")
+[<img align="center" src="assets/thumb.png" width="40%">](https://www.youtube.com/watch?v=9_pd3rIbLUc "watch the project")
 
 <h4>Project Report:</h4> 
 
